@@ -2,6 +2,7 @@ Hi, I’m **@cycu-jyw**
 
 I'm interested in computer science and learning new things. Currently I'm learning how to use AI to manipulate face images. I am also devleoping a coding platform for primary programming course. Here is my contact information:
 
+jyw@cycu.edu.tw
 jywglady@cycu.org.tw
 
 <!---
